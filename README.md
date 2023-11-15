@@ -1,1 +1,2 @@
-# context-design-pattern
+# Patrón de contexto en React + TypeScript 
+
